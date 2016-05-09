@@ -1,0 +1,295 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num
+28,1,Angina Atipica,130,132,0,2,185,0,0, ,,,< 50% del diámetro estrechamiento
+29,1,Angina Atipica,120,243,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+29,1,Angina Atipica,140,,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+30,0,Angina Típica,170,237,0,1,170,0,0, ,,6,< 50% del diámetro estrechamiento
+31,0,Angina Atipica,100,219,0,1,150,0,0, ,,,< 50% del diámetro estrechamiento
+32,0,Angina Atipica,105,198,0,0,165,0,0, ,,,< 50% del diámetro estrechamiento
+32,1,Angina Atipica,110,225,0,0,184,0,0, ,,,< 50% del diámetro estrechamiento
+32,1,Angina Atipica,125,254,0,0,155,0,0, ,,,< 50% del diámetro estrechamiento
+33,1,Dolor no Anginoso,120,298,0,0,185,0,0, ,,,< 50% del diámetro estrechamiento
+34,0,Angina Atipica,130,161,0,0,190,0,0, ,,,< 50% del diámetro estrechamiento
+34,1,Angina Atipica,150,214,0,1,168,0,0, ,,,< 50% del diámetro estrechamiento
+34,1,Angina Atipica,98,220,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+35,0,Angina Típica,120,160,0,1,185,0,0, ,,,< 50% del diámetro estrechamiento
+35,0,Dolor Asintomático,140,167,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+35,1,Angina Atipica,120,308,0,2,180,0,0, ,,,< 50% del diámetro estrechamiento
+35,1,Angina Atipica,150,264,0,0,168,0,0, ,,,< 50% del diámetro estrechamiento
+36,1,Angina Atipica,120,166,0,0,180,0,0, ,,,< 50% del diámetro estrechamiento
+36,1,Dolor no Anginoso,112,340,0,0,184,0,1,plano,,3,< 50% del diámetro estrechamiento
+36,1,Dolor no Anginoso,130,209,0,0,178,0,0, ,,,< 50% del diámetro estrechamiento
+36,1,Dolor no Anginoso,150,160,0,0,172,0,0, ,,,< 50% del diámetro estrechamiento
+37,0,Angina Atipica,120,260,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+37,0,Dolor no Anginoso,130,211,0,0,142,0,0, ,,,< 50% del diámetro estrechamiento
+37,0,Dolor Asintomático,130,173,0,1,184,0,0, ,,,< 50% del diámetro estrechamiento
+37,1,Angina Atipica,130,283,0,1,98,0,0, ,,,< 50% del diámetro estrechamiento
+37,1,Dolor no Anginoso,130,194,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+37,1,Dolor Asintomático,120,223,0,0,168,0,0, ,,3,< 50% del diámetro estrechamiento
+37,1,Dolor Asintomático,130,315,0,0,158,0,0, ,,,< 50% del diámetro estrechamiento
+38,0,Angina Atipica,120,275,,0,129,0,0, ,,,< 50% del diámetro estrechamiento
+38,1,Angina Atipica,140,297,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+38,1,Dolor no Anginoso,145,292,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+39,0,Dolor no Anginoso,110,182,0,1,180,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Angina Atipica,120,,0,1,146,0,2,Pendiente Baja,,,< 50% del diámetro estrechamiento
+39,1,Angina Atipica,120,200,0,0,160,1,1,plano,,,< 50% del diámetro estrechamiento
+39,1,Angina Atipica,120,204,0,0,145,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Angina Atipica,130,,0,0,120,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Angina Atipica,190,241,0,0,106,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Dolor no Anginoso,120,339,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Dolor no Anginoso,160,147,1,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Dolor Asintomático,110,273,0,0,132,0,0, ,,,< 50% del diámetro estrechamiento
+39,1,Dolor Asintomático,130,307,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+40,1,Angina Atipica,130,275,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+40,1,Angina Atipica,140,289,0,0,172,0,0, ,,,< 50% del diámetro estrechamiento
+40,1,Dolor no Anginoso,130,215,0,0,138,0,0, ,,,< 50% del diámetro estrechamiento
+40,1,Dolor no Anginoso,130,281,0,0,167,0,0, ,,,< 50% del diámetro estrechamiento
+40,1,Dolor no Anginoso,140,,0,0,188,0,0, ,,,< 50% del diámetro estrechamiento
+41,0,Angina Atipica,110,250,0,1,142,0,0, ,,,< 50% del diámetro estrechamiento
+41,0,Angina Atipica,125,184,0,0,180,0,0, ,,,< 50% del diámetro estrechamiento
+41,0,Angina Atipica,130,245,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+41,1,Angina Atipica,120,291,0,1,160,0,0, ,,,< 50% del diámetro estrechamiento
+41,1,Angina Atipica,120,295,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+41,1,Angina Atipica,125,269,0,0,144,0,0, ,,,< 50% del diámetro estrechamiento
+41,1,Dolor Asintomático,112,250,0,0,142,0,0, ,,,< 50% del diámetro estrechamiento
+42,0,Dolor no Anginoso,115,211,0,1,137,0,0, ,,,< 50% del diámetro estrechamiento
+42,1,Angina Atipica,120,196,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+42,1,Angina Atipica,120,198,0,0,155,0,0, ,,,< 50% del diámetro estrechamiento
+42,1,Angina Atipica,150,268,0,0,136,0,0, ,,,< 50% del diámetro estrechamiento
+42,1,Dolor no Anginoso,120,228,0,0,152,1,1.5,plano,,,< 50% del diámetro estrechamiento
+42,1,Dolor no Anginoso,160,147,0,0,146,0,0, ,,,< 50% del diámetro estrechamiento
+42,1,Dolor Asintomático,140,358,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Típica,100,223,0,0,142,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Atipica,120,201,0,0,165,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Atipica,120,215,0,1,175,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Atipica,120,249,0,1,176,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Atipica,120,266,0,0,118,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Angina Atipica,150,186,0,0,154,0,0, ,,,< 50% del diámetro estrechamiento
+43,0,Dolor no Anginoso,150,,0,0,175,0,0, ,,3,< 50% del diámetro estrechamiento
+43,1,Angina Atipica,142,207,0,0,138,0,0, ,,,< 50% del diámetro estrechamiento
+44,0,Dolor Asintomático,120,218,0,1,115,0,0, ,,,< 50% del diámetro estrechamiento
+44,1,Angina Atipica,120,184,0,0,142,0,1,plano,,,< 50% del diámetro estrechamiento
+44,1,Angina Atipica,130,215,0,0,135,0,0, ,,,< 50% del diámetro estrechamiento
+44,1,Dolor Asintomático,150,412,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+45,0,Angina Atipica,130,237,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+45,0,Angina Atipica,180,,0,0,180,0,0, ,,,< 50% del diámetro estrechamiento
+45,0,Dolor Asintomático,132,297,0,0,144,0,0, ,,,< 50% del diámetro estrechamiento
+45,1,Angina Atipica,140,224,1,0,122,0,0, ,,,< 50% del diámetro estrechamiento
+45,1,Dolor no Anginoso,135,,0,0,110,0,0, ,,,< 50% del diámetro estrechamiento
+45,1,Dolor Asintomático,120,225,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+45,1,Dolor Asintomático,140,224,0,0,144,0,0, ,,,< 50% del diámetro estrechamiento
+46,0,Dolor Asintomático,130,238,0,0,90,0,0, ,,,< 50% del diámetro estrechamiento
+46,1,Angina Atipica,140,275,0,0,165,1,0, ,,,< 50% del diámetro estrechamiento
+46,1,Dolor no Anginoso,120,230,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+46,1,Dolor no Anginoso,150,163,,0,116,0,0, ,,,< 50% del diámetro estrechamiento
+46,1,Dolor Asintomático,110,238,0,1,140,1,1,plano,,3,< 50% del diámetro estrechamiento
+46,1,Dolor Asintomático,110,240,0,1,140,0,0, ,,3,< 50% del diámetro estrechamiento
+46,1,Dolor Asintomático,180,280,0,1,120,0,0, ,,,< 50% del diámetro estrechamiento
+47,0,Angina Atipica,140,257,0,0,135,0,1,Pendiente Baja,,,< 50% del diámetro estrechamiento
+47,0,Dolor no Anginoso,130,,0,0,145,0,2,plano,,,< 50% del diámetro estrechamiento
+47,1,Angina Típica,110,249,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+47,1,Angina Atipica,160,263,0,0,174,0,0, ,,,< 50% del diámetro estrechamiento
+47,1,Dolor Asintomático,140,276,1,0,125,1,0, ,,,< 50% del diámetro estrechamiento
+48,0,Angina Atipica,,308,0,1,,,2,Pendiente Baja,,,< 50% del diámetro estrechamiento
+48,0,Angina Atipica,120,,1,1,148,0,0, ,,,< 50% del diámetro estrechamiento
+48,0,Angina Atipica,120,284,0,0,120,0,0, ,,,< 50% del diámetro estrechamiento
+48,0,Dolor no Anginoso,120,195,0,0,125,0,0, ,,,< 50% del diámetro estrechamiento
+48,0,Dolor Asintomático,108,163,0,0,175,0,2,Pendiente Baja,,,< 50% del diámetro estrechamiento
+48,0,Dolor Asintomático,120,254,0,1,110,0,0, ,,,< 50% del diámetro estrechamiento
+48,0,Dolor Asintomático,150,227,0,0,130,1,1,plano,,,< 50% del diámetro estrechamiento
+48,1,Angina Atipica,100,,0,0,100,0,0, ,,,< 50% del diámetro estrechamiento
+48,1,Angina Atipica,130,245,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+48,1,Angina Atipica,140,238,0,0,118,0,0, ,,,< 50% del diámetro estrechamiento
+48,1,Dolor no Anginoso,110,211,0,0,138,0,0, ,,6,< 50% del diámetro estrechamiento
+49,0,Angina Atipica,110,,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+49,0,Angina Atipica,110,,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+49,0,Angina Atipica,124,201,0,0,164,0,0, ,,,< 50% del diámetro estrechamiento
+49,0,Dolor no Anginoso,130,207,0,1,135,0,0, ,,,< 50% del diámetro estrechamiento
+49,1,Angina Atipica,100,253,0,0,174,0,0, ,,,< 50% del diámetro estrechamiento
+49,1,Dolor no Anginoso,140,187,0,0,172,0,0, ,,,< 50% del diámetro estrechamiento
+49,1,Dolor Asintomático,120,297,,0,132,0,1,plano,,,< 50% del diámetro estrechamiento
+49,1,Dolor Asintomático,140,,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+50,0,Angina Atipica,110,202,0,0,145,0,0, ,,,< 50% del diámetro estrechamiento
+50,0,Dolor Asintomático,120,328,0,0,110,1,1,plano,,,< 50% del diámetro estrechamiento
+50,1,Angina Atipica,120,168,0,0,160,0,0, ,0,,< 50% del diámetro estrechamiento
+50,1,Angina Atipica,140,216,0,0,170,0,0, ,,3,< 50% del diámetro estrechamiento
+50,1,Angina Atipica,170,209,0,1,116,0,0, ,,,< 50% del diámetro estrechamiento
+50,1,Dolor Asintomático,140,129,0,0,135,0,0, ,,,< 50% del diámetro estrechamiento
+50,1,Dolor Asintomático,150,215,0,0,140,1,0, ,,,< 50% del diámetro estrechamiento
+51,0,Angina Atipica,160,194,0,0,170,0,0, ,,,< 50% del diámetro estrechamiento
+51,0,Dolor no Anginoso,110,190,0,0,120,0,0, ,,,< 50% del diámetro estrechamiento
+51,0,Dolor no Anginoso,130,220,0,0,160,1,2,Pendiente Baja,,,< 50% del diámetro estrechamiento
+51,0,Dolor no Anginoso,150,200,0,0,120,0,0.5,Pendiente Baja,,,< 50% del diámetro estrechamiento
+51,1,Angina Atipica,125,188,0,0,145,0,0, ,,,< 50% del diámetro estrechamiento
+51,1,Angina Atipica,130,224,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+51,1,Dolor Asintomático,130,179,0,0,100,0,0, ,,7,< 50% del diámetro estrechamiento
+52,0,Angina Atipica,120,210,0,0,148,0,0, ,,,< 50% del diámetro estrechamiento
+52,0,Angina Atipica,140,,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+52,0,Dolor no Anginoso,125,272,0,0,139,0,0, ,,,< 50% del diámetro estrechamiento
+52,0,Dolor Asintomático,130,180,0,0,140,1,1.5,plano,,,< 50% del diámetro estrechamiento
+52,1,Angina Atipica,120,284,0,0,118,0,0, ,,,< 50% del diámetro estrechamiento
+52,1,Angina Atipica,140,100,0,0,138,1,0, ,,,< 50% del diámetro estrechamiento
+52,1,Angina Atipica,160,196,0,0,165,0,0, ,,,< 50% del diámetro estrechamiento
+52,1,Dolor no Anginoso,140,259,0,1,170,0,0, ,,,< 50% del diámetro estrechamiento
+53,0,Angina Atipica,113,468,,0,127,0,0, ,,,< 50% del diámetro estrechamiento
+53,0,Angina Atipica,140,216,0,0,142,1,2,plano,,,< 50% del diámetro estrechamiento
+53,0,Dolor no Anginoso,120,274,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+53,1,Angina Atipica,120,,0,0,132,0,0, ,,,< 50% del diámetro estrechamiento
+53,1,Angina Atipica,140,320,0,0,162,0,0, ,,,< 50% del diámetro estrechamiento
+53,1,Dolor no Anginoso,120,195,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+53,1,Dolor Asintomático,124,260,0,1,112,1,3,plano,,,< 50% del diámetro estrechamiento
+53,1,Dolor Asintomático,130,182,0,0,148,0,0, ,,,< 50% del diámetro estrechamiento
+53,1,Dolor Asintomático,140,243,0,0,155,0,0, ,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,120,221,0,0,138,0,1,Pendiente Baja,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,120,230,1,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,120,273,0,0,150,0,1.5,plano,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,130,253,0,1,155,0,0, ,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,140,309,,1,140,0,0, ,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,150,230,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+54,0,Angina Atipica,160,312,0,0,130,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Angina Típica,120,171,0,0,137,0,2,Pendiente Baja,,,< 50% del diámetro estrechamiento
+54,1,Angina Atipica,110,208,0,0,142,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Angina Atipica,120,238,0,0,154,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Angina Atipica,120,246,0,0,110,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Angina Atipica,160,195,0,1,130,0,1,Pendiente Baja,,,< 50% del diámetro estrechamiento
+54,1,Angina Atipica,160,305,0,0,175,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Dolor no Anginoso,120,217,0,0,137,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Dolor no Anginoso,150,,0,0,122,0,0, ,,,< 50% del diámetro estrechamiento
+54,1,Dolor Asintomático,150,365,0,1,134,0,1,Pendiente Baja,,,< 50% del diámetro estrechamiento
+55,0,Angina Atipica,110,344,0,1,160,0,0, ,,,< 50% del diámetro estrechamiento
+55,0,Angina Atipica,122,320,0,0,155,0,0, ,,,< 50% del diámetro estrechamiento
+55,0,Angina Atipica,130,394,0,2,150,0,0, ,,,< 50% del diámetro estrechamiento
+55,1,Angina Atipica,120,256,1,0,137,0,0, ,,7,< 50% del diámetro estrechamiento
+55,1,Angina Atipica,140,196,0,0,150,0,0, ,,7,< 50% del diámetro estrechamiento
+55,1,Angina Atipica,145,326,0,0,155,0,0, ,,,< 50% del diámetro estrechamiento
+55,1,Dolor no Anginoso,110,277,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+55,1,Dolor no Anginoso,120,220,0,2,134,0,0, ,,,< 50% del diámetro estrechamiento
+55,1,Dolor Asintomático,120,270,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+55,1,Dolor Asintomático,140,229,0,0,110,1,0.5,plano,,,< 50% del diámetro estrechamiento
+56,0,Dolor no Anginoso,130,219,,1,164,0,0, ,,7,< 50% del diámetro estrechamiento
+56,1,Angina Atipica,130,184,0,0,100,0,0, ,,,< 50% del diámetro estrechamiento
+56,1,Dolor no Anginoso,130,,0,0,114,0,0, ,,,< 50% del diámetro estrechamiento
+56,1,Dolor no Anginoso,130,276,0,0,128,1,1,Pendiente Baja,,6,< 50% del diámetro estrechamiento
+56,1,Dolor Asintomático,120,85,0,0,140,0,0, ,,,< 50% del diámetro estrechamiento
+57,0,Angina Típica,130,308,0,0,98,0,1,plano,,,< 50% del diámetro estrechamiento
+57,0,Dolor Asintomático,180,347,0,1,126,1,0.8,plano,,,< 50% del diámetro estrechamiento
+57,1,Angina Atipica,140,260,1,0,140,0,0, ,,6,< 50% del diámetro estrechamiento
+58,1,Angina Atipica,130,230,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+58,1,Angina Atipica,130,251,0,0,110,0,0, ,,,< 50% del diámetro estrechamiento
+58,1,Dolor no Anginoso,140,179,0,0,160,0,0, ,,,< 50% del diámetro estrechamiento
+58,1,Dolor Asintomático,135,222,0,0,100,0,0, ,,,< 50% del diámetro estrechamiento
+59,0,Angina Atipica,130,188,0,0,124,0,1,plano,,,< 50% del diámetro estrechamiento
+59,1,Angina Atipica,140,287,0,0,150,0,0, ,,,< 50% del diámetro estrechamiento
+59,1,Dolor no Anginoso,130,318,0,0,120,1,1,plano,,3,< 50% del diámetro estrechamiento
+59,1,Dolor no Anginoso,180,213,0,0,100,0,0, ,,,< 50% del diámetro estrechamiento
+59,1,Dolor Asintomático,140,,0,0,140,0,0, ,0,,< 50% del diámetro estrechamiento
+60,1,Dolor no Anginoso,120,246,0,2,135,0,0, ,,,< 50% del diámetro estrechamiento
+61,0,Dolor Asintomático,130,294,0,1,120,1,1,plano,,,< 50% del diámetro estrechamiento
+61,1,Dolor Asintomático,125,292,0,1,115,1,0, ,,,< 50% del diámetro estrechamiento
+62,0,Angina Típica,160,193,0,0,116,0,0, ,,,< 50% del diámetro estrechamiento
+62,1,Angina Atipica,140,271,0,0,152,0,1,Pendiente Baja,,,< 50% del diámetro estrechamiento
+31,1,Dolor Asintomático,120,270,0,0,153,1,1.5,plano,,,estrechamiento > 50% del diámetro
+33,0,Dolor Asintomático,100,246,0,0,150,1,1,plano,,,estrechamiento > 50% del diámetro
+34,1,Angina Típica,140,156,0,0,180,0,0, ,,,estrechamiento > 50% del diámetro
+35,1,Angina Atipica,110,257,0,0,140,0,0, ,,,estrechamiento > 50% del diámetro
+36,1,Angina Atipica,120,267,0,0,160,0,3,plano,,,estrechamiento > 50% del diámetro
+37,1,Dolor Asintomático,140,207,0,0,130,1,1.5,plano,,,estrechamiento > 50% del diámetro
+38,1,Dolor Asintomático,110,196,0,0,166,0,0, ,,,estrechamiento > 50% del diámetro
+38,1,Dolor Asintomático,120,282,0,0,170,0,0, ,,,estrechamiento > 50% del diámetro
+38,1,Dolor Asintomático,92,117,0,0,134,1,2.5,plano,,,estrechamiento > 50% del diámetro
+40,1,Dolor Asintomático,120,466,,0,152,1,1,plano,,6,estrechamiento > 50% del diámetro
+41,1,Dolor Asintomático,110,289,0,0,170,0,0, ,,6,estrechamiento > 50% del diámetro
+41,1,Dolor Asintomático,120,237,,0,138,1,1,plano,,,estrechamiento > 50% del diámetro
+43,1,Dolor Asintomático,150,247,0,0,130,1,2,plano,,,estrechamiento > 50% del diámetro
+46,1,Dolor Asintomático,110,202,0,0,150,1,0, ,,,estrechamiento > 50% del diámetro
+46,1,Dolor Asintomático,118,186,0,0,124,0,0, ,,7,estrechamiento > 50% del diámetro
+46,1,Dolor Asintomático,120,277,0,0,125,1,1,plano,,,estrechamiento > 50% del diámetro
+47,1,Dolor no Anginoso,140,193,0,0,145,1,1,plano,,,estrechamiento > 50% del diámetro
+47,1,Dolor Asintomático,150,226,0,0,98,1,1.5,plano,0,7,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,106,263,1,0,110,0,0, ,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,120,260,0,0,115,0,2,plano,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,160,268,0,0,103,1,1,plano,,,estrechamiento > 50% del diámetro
+49,0,Dolor no Anginoso,160,180,0,0,156,0,1,plano,,,estrechamiento > 50% del diámetro
+49,1,Dolor no Anginoso,115,265,0,0,175,0,0, ,,,estrechamiento > 50% del diámetro
+49,1,Dolor Asintomático,130,206,0,0,170,0,0, ,,,estrechamiento > 50% del diámetro
+50,0,Dolor no Anginoso,140,288,0,0,140,1,0, ,,7,estrechamiento > 50% del diámetro
+50,1,Dolor Asintomático,145,264,0,0,150,0,0, ,,,estrechamiento > 50% del diámetro
+51,0,Dolor Asintomático,160,303,0,0,150,1,1,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,130,225,0,0,120,1,2,plano,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,125,216,0,0,140,0,0, ,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,125,224,0,0,122,0,2,plano,,,estrechamiento > 50% del diámetro
+55,1,Dolor Asintomático,140,201,0,0,130,1,3,plano,,,estrechamiento > 50% del diámetro
+57,1,Angina Atipica,140,265,0,1,145,1,1,plano,,,estrechamiento > 50% del diámetro
+58,1,Dolor no Anginoso,130,213,0,1,140,0,0, ,,6,estrechamiento > 50% del diámetro
+59,0,Dolor Asintomático,130,338,1,1,130,1,1.5,plano,,,estrechamiento > 50% del diámetro
+60,1,Dolor Asintomático,100,248,0,0,125,0,1,plano,,,estrechamiento > 50% del diámetro
+63,1,Dolor Asintomático,150,223,0,0,115,0,0, ,,,estrechamiento > 50% del diámetro
+65,1,Dolor Asintomático,140,306,1,0,87,1,1.5,plano,,,estrechamiento > 50% del diámetro
+32,1,Dolor Asintomático,118,529,0,0,130,0,0, ,,,estrechamiento > 50% del diámetro
+38,1,Dolor Asintomático,110,,0,0,150,1,1,plano,,,estrechamiento > 50% del diámetro
+39,1,Dolor Asintomático,110,280,0,0,150,0,0, ,,6,estrechamiento > 50% del diámetro
+40,0,Dolor Asintomático,150,392,0,0,130,0,2,plano,,6,estrechamiento > 50% del diámetro
+43,1,Angina Típica,120,291,0,1,155,0,0, ,,,estrechamiento > 50% del diámetro
+45,1,Dolor Asintomático,130,219,0,1,130,1,1,plano,,,estrechamiento > 50% del diámetro
+46,1,Dolor Asintomático,120,231,0,0,115,1,0, ,,,estrechamiento > 50% del diámetro
+46,1,Dolor Asintomático,130,222,0,0,112,0,0, ,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,122,275,1,1,150,1,2,Pendienta Alta,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,160,193,0,0,102,1,3,plano,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,160,329,0,0,92,1,1.5,plano,,,estrechamiento > 50% del diámetro
+48,1,Dolor Asintomático,160,355,0,0,99,1,2,plano,,,estrechamiento > 50% del diámetro
+50,1,Dolor Asintomático,130,233,0,0,121,1,2,plano,,7,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,120,182,0,0,150,0,0, ,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,170,,0,0,126,1,1.5,plano,,,estrechamiento > 50% del diámetro
+53,1,Dolor Asintomático,120,246,0,0,116,1,0, ,,,estrechamiento > 50% del diámetro
+54,1,Dolor no Anginoso,120,237,0,0,150,1,1.5, ,,7,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,130,242,0,0,91,1,1,plano,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,130,603,1,0,125,1,1,plano,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,140,,0,0,118,1,0, ,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,200,198,0,0,142,1,2,plano,,,estrechamiento > 50% del diámetro
+55,1,Dolor Asintomático,140,268,0,0,128,1,1.5,plano,,,estrechamiento > 50% del diámetro
+56,1,Dolor Asintomático,150,213,1,0,125,1,1,plano,,,estrechamiento > 50% del diámetro
+57,1,Dolor Asintomático,150,255,0,0,92,1,3,plano,,,estrechamiento > 50% del diámetro
+58,1,Dolor no Anginoso,160,211,1,1,92,0,0, ,,,estrechamiento > 50% del diámetro
+58,1,Dolor Asintomático,130,263,0,0,140,1,2,plano,,,estrechamiento > 50% del diámetro
+41,1,Dolor Asintomático,130,172,0,1,130,0,2,plano,,,estrechamiento > 50% del diámetro
+43,1,Dolor Asintomático,120,175,0,0,120,1,1,plano,,7,estrechamiento > 50% del diámetro
+44,1,Angina Atipica,150,288,0,0,150,1,3,plano,,,estrechamiento > 50% del diámetro
+44,1,Dolor Asintomático,130,290,0,0,100,1,2,plano,,,estrechamiento > 50% del diámetro
+46,1,Angina Típica,140,272,1,0,175,0,2,plano,,,estrechamiento > 50% del diámetro
+47,0,Dolor no Anginoso,135,248,1,0,170,0,0, ,,,estrechamiento > 50% del diámetro
+48,0,Dolor Asintomático,138,214,0,0,108,1,1.5,plano,,,estrechamiento > 50% del diámetro
+49,1,Dolor Asintomático,130,341,0,0,120,1,1,plano,,,estrechamiento > 50% del diámetro
+49,1,Dolor Asintomático,140,234,0,0,140,1,1,plano,,,estrechamiento > 50% del diámetro
+51,1,Dolor no Anginoso,135,160,0,0,150,0,2,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,112,342,0,1,96,1,1,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,130,298,0,0,110,1,1,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,140,404,0,0,124,1,2,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,160,246,0,1,82,1,4,plano,,,estrechamiento > 50% del diámetro
+53,1,Dolor no Anginoso,145,518,0,0,130,0,0, ,,,estrechamiento > 50% del diámetro
+53,1,Dolor Asintomático,180,285,0,1,120,1,1.5,plano,,,estrechamiento > 50% del diámetro
+54,1,Dolor Asintomático,140,216,0,0,105,0,1.5,plano,,,estrechamiento > 50% del diámetro
+55,1,Angina Típica,140,295,0,,136,0,0, ,,,estrechamiento > 50% del diámetro
+55,1,Angina Atipica,160,292,1,0,143,1,2,plano,,,estrechamiento > 50% del diámetro
+55,1,Dolor Asintomático,145,248,0,0,96,1,2,plano,,,estrechamiento > 50% del diámetro
+56,0,Angina Atipica,120,279,0,0,150,0,1,plano,,,estrechamiento > 50% del diámetro
+56,1,Dolor Asintomático,150,230,0,1,124,1,1.5,plano,,,estrechamiento > 50% del diámetro
+56,1,Dolor Asintomático,170,388,0,1,122,1,2,plano,,,estrechamiento > 50% del diámetro
+58,1,Angina Atipica,136,164,0,1,99,1,2,plano,,,estrechamiento > 50% del diámetro
+59,1,Dolor Asintomático,130,,0,0,125,0,0, ,,,estrechamiento > 50% del diámetro
+59,1,Dolor Asintomático,140,264,1,2,119,1,0, ,,,estrechamiento > 50% del diámetro
+65,1,Dolor Asintomático,170,263,1,0,112,1,2,plano,,,estrechamiento > 50% del diámetro
+66,1,Dolor Asintomático,140,,0,0,94,1,1,plano,,,estrechamiento > 50% del diámetro
+41,1,Dolor Asintomático,120,336,0,0,118,1,3,plano,,,estrechamiento > 50% del diámetro
+43,1,Dolor Asintomático,140,288,0,0,135,1,2,plano,,,estrechamiento > 50% del diámetro
+44,1,Dolor Asintomático,135,491,0,0,135,0,0, ,,,estrechamiento > 50% del diámetro
+47,0,Dolor Asintomático,120,205,0,0,98,1,2,plano,,6,estrechamiento > 50% del diámetro
+47,1,Dolor Asintomático,160,291,0,1,158,1,3,plano,,,estrechamiento > 50% del diámetro
+49,1,Dolor Asintomático,128,212,0,0,96,1,0, ,,,estrechamiento > 50% del diámetro
+49,1,Dolor Asintomático,150,222,0,0,122,0,2,plano,,,estrechamiento > 50% del diámetro
+50,1,Dolor Asintomático,140,231,0,1,140,1,5,plano,,,estrechamiento > 50% del diámetro
+50,1,Dolor Asintomático,140,341,0,1,125,1,2.5,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,140,266,0,0,134,1,2,plano,,,estrechamiento > 50% del diámetro
+52,1,Dolor Asintomático,160,331,0,0,94,1,2.5, ,,,estrechamiento > 50% del diámetro
+54,0,Dolor no Anginoso,130,294,0,1,100,1,0,plano,,,estrechamiento > 50% del diámetro
+56,1,Dolor Asintomático,155,342,1,0,150,1,3,plano,,,estrechamiento > 50% del diámetro
+58,0,Angina Atipica,180,393,0,0,110,1,1,plano,,7,estrechamiento > 50% del diámetro
+65,1,Dolor Asintomático,130,275,0,1,115,1,1,plano,,,estrechamiento > 50% del diámetro
