@@ -1,0 +1,69 @@
+<center>**PRACTICA 2.1</center>
+
+Se ha elegido un dataset referido a enfermedades del corazón, como la angina de pecho y la talasemia.  Este dataset contiene cuatro base de datos  concerniente a los diagnósticos realizados.  
+La Colección de datos fue recolectada de: 
+  
+    1. La Fundación de Clinica de Cliveland, Estados Unidos
+    2. El Instituto de Cardiología Húngaro, Budapest.
+    3. Centro Médico V.A. en Long Beacha, California
+    4. Hospital Universitario de Zurich, Suiza
+    
+ Cada base de datos tiene el mismo formato en sus instancias. La bases de datos constan de 76 atributos, donde solo 14 de ellos son actualmente usados.
+
+1. Edad
+
+2. Sexo
+
+    0= femenino
+    1= masculino
+    
+3. Cp, tipo de dolor de pecho
+
+        Valor 1, angina típica
+        Vaor 2, angina atípica
+        Valor 3, dolor no anginoso
+        Valor 4, asintomático
+        
+4.	trestbps, Presión Arterial en reposo, en mmHg al ingreso al hospital
+
+5.	chol,  Colesterol en suero en mg/dl
+
+6.	fbs, Glucemia en ayunas mayor a 120 mg/dl ( 1= verdadero; 0=falso)
+
+7.	restecg,  resultados electrocardigráficos en reposo
+
+        Valor 0: Normal
+        
+        Valor 1: teniendo ST -T de onda de anormalidad (inversiones de la onda T y / o ST elevación
+                 o  depresión de > 0,05 mV )
+                 
+        Valor 2: que muestra hipertrofia ventricular izquierda probable o definitiva por criterios de
+                 Estes
+                 
+8.	thalach, frecuencia cardíaca máxima alcanzada 
+
+9.	exang, angina inducida por el ejercicio
+
+10.	oldpeak, depresión del segmento ST inducida por el ejercicio en relación con el descanso
+
+11.	slope, la pendiente del segmento ST ejercicio máximo
+
+    Valor 1:	Pendiente baja
+    Valor 2: plano
+    Valor 3: Pendiente alta
+    
+12.	ca, número de grandes vasos (0-3) coloreadas por flourosopy
+
+13.	thal, talasemia tipo de anemia del grupo de anemias hereditarias
+
+    3 = normal
+    6 = defecto fijo
+    7 = defecto reversible
+    
+14.	num, diagnóstico de las enfermedades del corazón ( estado de la enfermedad angiográfica )
+
+    Valor 0: < 50% del diámetro estrechamiento  
+    Valor 1: estrechamiento > 50% del diámetro
+
+Los datos se encuentran en formato csv.
+
